@@ -5,3 +5,4 @@ Curso: INF20125
 Objetivo: practicar el flujo básico con Git y un remoto por SSH.# Lab-08-Nicolas-Segovia
 
 Cambio realizado directamente en el remoto.
+segundo cambio hola
